@@ -1,5 +1,5 @@
 # React Js Boilerplate
-## BAP IT CO., JSC
+
 
 ### Environment requirement
 > Operating System: `Ubuntu v18.04`
@@ -38,6 +38,3 @@
 >
 > CSS: `npm run stylelint`
 
-## License
-
-© 2019-present BAP IT CO., JSC
